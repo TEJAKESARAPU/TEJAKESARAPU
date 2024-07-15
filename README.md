@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TEJAKESARAPU
-- 👀 I’m interested in Web Designing
+- 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning Java Fullstack
-- 💞️ I’m looking to collaborate on Web Designing
+- 💞️ I’m looking to collaborate on Projects
 - 📫 You can reach me at https://linktr.ee/tejakesarapu
 
 <!---

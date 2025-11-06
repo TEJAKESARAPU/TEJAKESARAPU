@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TEJAKESARAPU
 - 👀 I’m interested in the Data Analytics world
-- 💞️ I’m looking to collaborate on Projects
+- 💞️ I’m looking to collaborate on Projects and actively seeking a full-time data analyst role
 - 📫 You can reach me at https://linktr.ee/tejakesarapu
 
 <!---
